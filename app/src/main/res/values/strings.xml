@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Libyan App</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="upload">Upload</string>
+    <string name="download">Download</string>
+    <string name="Rate">Rate Us</string>
+
+    <string name="menu_icon_description">Open Menu</string>
+
+</resources>
